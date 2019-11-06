@@ -1,4 +1,4 @@
-# rest-car-service
+# rest-car-service ![](leaf.png)
 
 <br>
 <br>
