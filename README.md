@@ -7,7 +7,7 @@
 <b>What is rest-car-service?</b>
 
 
-Rest application created in <b><i>Spring Rest API</i></b> and in <b><i>Java</i></b>. It allows you to manage the table in the database easily. Provides a number of GET, POST, PUT and DELETE requests.
+Rest application created in <b><i>Spring Rest API</i></b> and in <b><i>Java</i></b>. It allows you to manage the table in the database easily. Provides a handling for GET, POST, PUT and DELETE requests.
 
 <br>
 <br>
