@@ -4,7 +4,7 @@ import java.util.List;
 
 import kula.marcin.restcarservice.entity.Car;
 
-/* test */
+/* test 2*/
 public interface CarDAO {
 	
 	public List<Car> getCars();
